@@ -1,0 +1,22 @@
+{
+  "name": "cryptochain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "jest-cli": "^29.5.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
